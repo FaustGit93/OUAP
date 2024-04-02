@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b0c67bba99069f74da6cf256b6f65f85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Blood: {instanceID: 0}
+  - spellSoundEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
